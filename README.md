@@ -1,0 +1,2 @@
+# StaticWeb
+Checking static website
